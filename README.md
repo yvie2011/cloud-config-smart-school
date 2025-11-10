@@ -1,1 +1,1 @@
-# cloud-config-smart-school
+# SMART-SCHOOL
